@@ -1,0 +1,3 @@
+This project uses maven.
+
+I've implemented the random RSA pair, as well as the random bitmap image. Just run the main method! 
